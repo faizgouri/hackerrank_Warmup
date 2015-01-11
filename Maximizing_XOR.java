@@ -1,3 +1,5 @@
+/* Problem Statement:
+https://www.hackerrank.com/challenges/maximizing-xor */
 import java.io.*;
 import java.util.*;
 

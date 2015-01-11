@@ -1,3 +1,6 @@
+/* Problem Statement:
+https://www.hackerrank.com/challenges/sherlock-and-squares  */
+
 import java.io.*;
 import java.util.*;
 

@@ -1,3 +1,6 @@
+/* Problem Statement
+https://www.hackerrank.com/challenges/halloween-party  */
+
 import java.io.*;
 import java.util.*;
 

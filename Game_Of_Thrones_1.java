@@ -1,3 +1,6 @@
+/* Problem Statement:
+https://www.hackerrank.com/challenges/game-of-thrones  */
+
 import java.io.*;
 import java.util.*;
 

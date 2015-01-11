@@ -1,3 +1,6 @@
+/* Problem Statement
+https://www.hackerrank.com/challenges/manasa-and-stones  */
+
 import java.io.*;
 import java.util.*;
 

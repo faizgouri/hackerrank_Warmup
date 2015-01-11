@@ -1,3 +1,5 @@
+/* Alternating Characters:
+https://www.hackerrank.com/challenges/alternating-characters */
 import java.io.*;
 import java.util.*;
 
